@@ -55,3 +55,7 @@
 ### **总结**
 
 该 `Dockerfile` 构建了 Stable Diffusion Web UI 运行环境，支持 GPU 加速。
+
+## 参考
+
+参考了[AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker/tree/master)。
