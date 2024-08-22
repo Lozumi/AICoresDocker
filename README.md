@@ -9,7 +9,7 @@
 | 模型镜像                        | 介绍                                                         |      | 实现方案 | 状态 |
 | ------------------------------- | ------------------------------------------------------------ | ---- | -------- | ---- |
 | Stable Diffusion 3 WebUI       | 多模态扩散变换器 (MMDiT) 文本到图像模型，启动器              |      | 构建一个基于Stable Diffusion Version 2.1和Stable Diffusion Web UI v1.10.0的Docker镜像。使用PyTorch官方镜像作为基础镜像，预装CUDA 12.1和cuDNN 8。 | 完成，未测试 |
-| Stable Diffusion ComfyUl 工作流 | 基于 Stable Diffusion 的稳定扩散 GUI、api 和后端，带有图形/节点界面 |      |          |      |
+| Stable Diffusion ComfyUl 工作流 | 基于 Stable Diffusion 的稳定扩散 GUI、api 和后端，带有图形/节点界面 |      | 构建一个基于Stable Diffusion Version 2.1和Comfy UI的Docker镜像。 |      |
 | Stable Diffusion Lora           | 基于SD的Iora训练                                             |      |          |      |
 | Langchain-Chatchat              | 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答         |      |          |      |
 | RVC                             | 语音转换训练推理                                             |      |          |      |
