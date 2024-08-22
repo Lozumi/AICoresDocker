@@ -1,4 +1,4 @@
-# LangChain-chatcha
+# LangChain-Chatchat
 
 ### **1. 基于的镜像**
 
